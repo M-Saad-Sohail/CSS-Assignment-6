@@ -1,0 +1,112 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* .nav-bar{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    color: white;
+    
+} */
+.nav-bar{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 1;
+}
+.list{
+    list-style: none;
+
+}
+.A1{
+    
+    text-decoration: none;
+}
+.icon{
+    font-size: 25px;
+    position: relative;
+    left: 2.5vw;
+    top: 1.2vw;
+}
+.get{
+padding: 16px;
+position: relative;
+bottom: 1vw;
+right: 2.4vw;
+width: 10.2vw;
+
+}
+.email{
+    height: 4.6vw;
+}
+.div1{
+    padding: 10vw;
+}
+.img1{
+    position: relative ;
+    bottom: 7vw;
+    left: 3vw;
+
+}
+.form{
+   position: relative;
+   right: 1.7vw;
+}
+.search{
+    width: 23vw;
+}
+.img3{
+
+    box-shadow:  10px 10px 10px 10px rgba(190, 189, 189, 0.836);
+}
+.logo1{
+    position: relative;
+    top: 4vw;
+}
+.trusted{
+    margin-top: -1vw  ;
+}
+.zendesk{
+    /* box-shadow:  10px 10px 10px 10px rgba(190, 189, 189, 0.836); */
+    width: 13vw;
+    height: 6vw;
+}
+.more{
+    position: relative;
+    left: 5vw;
+    width: 51vw;
+}
+.meet{
+    padding-top: 5vw ;
+}
+.team{
+    padding-top: 2vw ;
+}
+.girl{
+    padding: 14vw;
+    margin-bottom: -10vw ;
+    margin: 0 0 -20vw 0;
+}
+
+.img-girl{
+    position: relative;
+    bottom: 10vw;
+    /* left: 4vw; */
+}
+/* .img-boy:hover{
+    position: relative;
+    bottom: 5px;
+} */
+.a-boy:hover{
+    color: rgb(0, 119, 255);
+    text-decoration: underline;
+}
+.a-boy{
+    color: black;
+    text-decoration: none;
+}
+.div-boy{
+    border-radius: 20px ;
+}
+/* .button:hover {
+border: 10px solid black !important;
+} */
